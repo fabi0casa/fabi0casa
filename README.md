@@ -10,7 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabin0casa&layout=donut&theme=transparent&hide_border=true&title_color=00CD0BFF&text_color=71C771&icon_color=71C771" alt="Top Langs" style="width: 48%; max-width: 300px; height: 185px"/>
 </div>
 
-
 <div align="center">
   <h3><strong>Skills</strong></h3>
 </div>
