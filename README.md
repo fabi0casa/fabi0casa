@@ -1,13 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00CD0BFF&height=150&section=header">
 </div>
+
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=1000&color=00CD0B&background=005F7100&center=true&vCenter=true&width=610&lines=Hello!+My+name+is+F%C3%A1bio+Casagrande+;I'm+a+Brazilian+Developer+Student.;Be+Welcome!+%3AD" alt="Typing SVG" /></a>
 </div>
 </br></br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabin0casa&show_icons=true&theme=transparent&hide_border=true&title_color=00CD0BFF&text_color=0f810f&icon_color=71C771" alt="Anurag's GitHub stats" style="width: 48%; max-width: 300px; height: 185px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabin0casa&layout=donut&theme=transparent&hide_border=true&title_color=00CD0BFF&text_color=71C771&icon_color=71C771" alt="Top Langs" style="width: 48%; max-width: 300px; height: 185px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fabin0casa&show_icons=true&theme=transparent&hide_border=true&title_color=00CD0BFF&text_color=0f810f&icon_color=71C771" alt="Anurag's GitHub stats" max-width: 300px; height: 250px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabin0casa&layout=donut&theme=transparent&hide_border=true&title_color=00CD0BFF&text_color=71C771&icon_color=71C771" alt="Top Langs" max-width: 300px; height: 250px"/>
 </div>
 
 
