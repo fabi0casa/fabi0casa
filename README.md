@@ -31,7 +31,8 @@
   <img src ="https://github.com/user-attachments/assets/06851a6c-5780-4b9c-b89d-af3b4e605636" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/8e96cc9f-edc3-4c36-bd9a-ec1d918e8a45" style="height: 60px">
   <img src ="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" style="height: 60px">
-  <img src ="https://github.com/user-attachments/assets/094a0ada-da6b-4fd8-9d28-d9a05744c040" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/bf5cdc21-ae05-49ad-b94c-769f6203ce2c" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/436c6cd5-af33-40f2-b3ea-f46cda4edd22" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/d2554c84-b866-42e1-b96c-3267fbc47518" style="height: 60px">
   <img src ="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" style="height: 60px">
   <img src ="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-power-bi-logo.png" style="height: 60px">
