@@ -26,16 +26,17 @@
   <img src ="https://cdn-icons-png.flaticon.com/512/226/226777.png" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/6a3c4ab9-8bfe-42d1-bc5d-5fe770e11f51" style="height: 60px">
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" style="height: 60px">
-  </br>
   <img src ="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" style="height: 60px">
+  </br>
   <img src ="https://github.com/user-attachments/assets/06851a6c-5780-4b9c-b89d-af3b4e605636" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/8e96cc9f-edc3-4c36-bd9a-ec1d918e8a45" style="height: 60px">
   <img src ="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" style="height: 60px">
-  <img src ="https://github.com/user-attachments/assets/bf5cdc21-ae05-49ad-b94c-769f6203ce2c" style="height: 60px">
-  <img src ="https://github.com/user-attachments/assets/436c6cd5-af33-40f2-b3ea-f46cda4edd22" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/5358822c-2ade-4a5c-9a6f-bcbf5939b620" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/d7939a26-7ba0-436c-8b87-9afa8f23eaae" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/d2554c84-b866-42e1-b96c-3267fbc47518" style="height: 60px">
   <img src ="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" style="height: 60px">
   <img src ="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-power-bi-logo.png" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/6fc34a90-c4aa-4b9f-acd9-123f35f92b6a" style="height: 60px">
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/1024px-Eclipse-SVG.svg.png" style="height: 60px">
 </div>
 
