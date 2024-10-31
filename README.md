@@ -51,7 +51,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/fábio-casagrande-aa508b334/)">
+  <a href="https://www.linkedin.com/in/fábio-casagrande-aa508b334/">
     <img src="https://img.shields.io/badge/LinkedIn-0749FF?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 35px" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:fabiocasagrande999@gmail.com">
