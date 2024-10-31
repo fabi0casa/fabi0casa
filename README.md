@@ -32,8 +32,13 @@
   <img src ="https://github.com/user-attachments/assets/8e96cc9f-edc3-4c36-bd9a-ec1d918e8a45" style="height: 60px">
   <img src ="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/6a46647d-46c6-4872-9454-0580d2a3afb3" style="height: 60px">
+   <!-- tentativas anteriores de tentar deixar as logos do sql developer e data modeler mais bonitenhos :)
   <img src ="https://github.com/user-attachments/assets/5358822c-2ade-4a5c-9a6f-bcbf5939b620" style="height: 60px">
-  <img src ="https://github.com/user-attachments/assets/d7939a26-7ba0-436c-8b87-9afa8f23eaae" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/d7939a26-7ba0-436c-8b87-9afa8f23eaae" style="height: 60px"> 
+  <img src ="https://github.com/user-attachments/assets/3b595839-6835-43aa-9a25-d11c0da6e48a" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/ea6e2e6f-f815-4963-8918-e28bf436b5fe" style="height: 60px"> -->
+  <img src ="https://github.com/user-attachments/assets/d784bf28-fa9a-48ef-99a9-8e886ebf7e78" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/453eda7c-ffbb-4c5b-8742-16f0567b61b5" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/d2554c84-b866-42e1-b96c-3267fbc47518" style="height: 60px">
   <img src ="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" style="height: 60px">
   <img src ="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-power-bi-logo.png" style="height: 60px">
