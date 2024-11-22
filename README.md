@@ -51,12 +51,12 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/fábio-casagrande-aa508b334/">
+  <a href="https://www.linkedin.com/in/fabio-casagrande">
     <img src="https://img.shields.io/badge/LinkedIn-0749FF?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 35px" alt="LinkedIn Badge"/>
-  </a>
+  </a> <!--
   <a href="mailto:fabiocasagrande999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white" style="height: 35px" alt="Gmail Badge"/>
-  </a>
+  </a> -->
 </div>
 
 
