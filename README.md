@@ -22,28 +22,31 @@
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" style="height: 60px">
   <img src ="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" style="height: 60px">
   <img src ="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" style="height: 60px">
-  <img src ="https://media.licdn.com/dms/image/v2/C5112AQExUeu0Uwrxdg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1555853756108?e=2147483647&v=beta&t=N96fwDtStzXrEpQh9sTr9VUOmtLYGL3jNvK0QvobxuU" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/06851a6c-5780-4b9c-b89d-af3b4e605636" style="height: 60px">
+  <!--<img src ="https://media.licdn.com/dms/image/v2/C5112AQExUeu0Uwrxdg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1555853756108?e=2147483647&v=beta&t=N96fwDtStzXrEpQh9sTr9VUOmtLYGL3jNvK0QvobxuU" style="height: 60px">-->
   <img src ="https://cdn-icons-png.flaticon.com/512/226/226777.png" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/6a3c4ab9-8bfe-42d1-bc5d-5fe770e11f51" style="height: 60px">
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" style="height: 60px">
   <img src ="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" style="height: 60px">
   </br>
-  <img src ="https://github.com/user-attachments/assets/06851a6c-5780-4b9c-b89d-af3b4e605636" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/8e96cc9f-edc3-4c36-bd9a-ec1d918e8a45" style="height: 60px">
   <img src ="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/6a46647d-46c6-4872-9454-0580d2a3afb3" style="height: 60px">
-   <!-- tentativas anteriores de tentar deixar as logos do sql developer e data modeler mais bonitenhos :)
-  <img src ="https://github.com/user-attachments/assets/5358822c-2ade-4a5c-9a6f-bcbf5939b620" style="height: 60px">
-  <img src ="https://github.com/user-attachments/assets/d7939a26-7ba0-436c-8b87-9afa8f23eaae" style="height: 60px"> 
-  <img src ="https://github.com/user-attachments/assets/3b595839-6835-43aa-9a25-d11c0da6e48a" style="height: 60px">
-  <img src ="https://github.com/user-attachments/assets/ea6e2e6f-f815-4963-8918-e28bf436b5fe" style="height: 60px"> -->
   <img src ="https://github.com/user-attachments/assets/d784bf28-fa9a-48ef-99a9-8e886ebf7e78" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/453eda7c-ffbb-4c5b-8742-16f0567b61b5" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/b3f65b7b-6593-4e4e-91d6-7250185fa3a0" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/d2554c84-b866-42e1-b96c-3267fbc47518" style="height: 60px">
   <img src ="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" style="height: 60px">
   <img src ="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-power-bi-logo.png" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/6fc34a90-c4aa-4b9f-acd9-123f35f92b6a" style="height: 60px">
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/1024px-Eclipse-SVG.svg.png" style="height: 60px">
+     <!-- tentativas anteriores de tentar deixar as logos do sql developer, data modeler e mongodb mais bonitenhos :)
+  <img src ="https://github.com/user-attachments/assets/5358822c-2ade-4a5c-9a6f-bcbf5939b620" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/d7939a26-7ba0-436c-8b87-9afa8f23eaae" style="height: 60px"> 
+  <img src ="https://github.com/user-attachments/assets/3b595839-6835-43aa-9a25-d11c0da6e48a" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/ea6e2e6f-f815-4963-8918-e28bf436b5fe" style="height: 60px"> 
+  <img src ="https://github.com/user-attachments/assets/d186ede7-8104-437b-8d3e-da1cb81d26ce" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/5f12e0cb-838d-4381-bbbf-a3cfd596e021" style="height: 60px">-->
 </div>
 
 <div align="center">
