@@ -38,15 +38,17 @@
   <img src ="https://github.com/user-attachments/assets/d2554c84-b866-42e1-b96c-3267fbc47518" style="height: 60px">
   <img src ="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" style="height: 60px">
   <img src ="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-power-bi-logo.png" style="height: 60px">
-  <img src ="https://github.com/user-attachments/assets/6fc34a90-c4aa-4b9f-acd9-123f35f92b6a" style="height: 60px">
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/1024px-Eclipse-SVG.svg.png" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/6bd1bf95-6889-4c16-a804-dd751e67fe44" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/7f2fad34-9063-4da6-86c5-76731db508f3" style="height: 60px">
      <!-- tentativas anteriores de tentar deixar as logos do sql developer, data modeler e mongodb mais bonitenhos :)
   <img src ="https://github.com/user-attachments/assets/5358822c-2ade-4a5c-9a6f-bcbf5939b620" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/d7939a26-7ba0-436c-8b87-9afa8f23eaae" style="height: 60px"> 
   <img src ="https://github.com/user-attachments/assets/3b595839-6835-43aa-9a25-d11c0da6e48a" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/ea6e2e6f-f815-4963-8918-e28bf436b5fe" style="height: 60px"> 
   <img src ="https://github.com/user-attachments/assets/d186ede7-8104-437b-8d3e-da1cb81d26ce" style="height: 60px">
-  <img src ="https://github.com/user-attachments/assets/5f12e0cb-838d-4381-bbbf-a3cfd596e021" style="height: 60px">-->
+  <img src ="https://github.com/user-attachments/assets/5f12e0cb-838d-4381-bbbf-a3cfd596e021" style="height: 60px">
+  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/1024px-Eclipse-SVG.svg.png" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/6fc34a90-c4aa-4b9f-acd9-123f35f92b6a" style="height: 60px">-->
 </div>
 
 <div align="center">
