@@ -36,10 +36,10 @@
   <img src ="https://github.com/user-attachments/assets/453eda7c-ffbb-4c5b-8742-16f0567b61b5" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/b3f65b7b-6593-4e4e-91d6-7250185fa3a0" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/d2554c84-b866-42e1-b96c-3267fbc47518" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/5a5a63ed-445c-4dd8-aa3d-1d7510557367" style="height: 60px">
+  <img src ="https://github.com/user-attachments/assets/7f2fad34-9063-4da6-86c5-76731db508f3" style="height: 60px">
   <img src ="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" style="height: 60px">
   <img src ="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-power-bi-logo.png" style="height: 60px">
-  <img src ="https://github.com/user-attachments/assets/6bd1bf95-6889-4c16-a804-dd751e67fe44" style="height: 60px">
-  <img src ="https://github.com/user-attachments/assets/7f2fad34-9063-4da6-86c5-76731db508f3" style="height: 60px">
      <!-- tentativas anteriores de tentar deixar as logos do sql developer, data modeler e mongodb mais bonitenhos :)
   <img src ="https://github.com/user-attachments/assets/5358822c-2ade-4a5c-9a6f-bcbf5939b620" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/d7939a26-7ba0-436c-8b87-9afa8f23eaae" style="height: 60px"> 
