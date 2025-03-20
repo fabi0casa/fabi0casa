@@ -7,8 +7,8 @@
 </div>
 </br></br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabin0casa&show_icons=true&theme=transparent&hide_border=true&title_color=00CD0BFF&text_color=0f810f&icon_color=71C771" alt="Anurag's GitHub stats" max-width: 300px; height: 250px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabin0casa&layout=donut&theme=transparent&hide_border=true&title_color=00CD0BFF&text_color=71C771&icon_color=71C771" alt="Top Langs" max-width: 300px; height: 250px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fabi0casa&show_icons=true&theme=transparent&hide_border=true&title_color=00CD0BFF&text_color=0f810f&icon_color=71C771" alt="Anurag's GitHub stats" max-width: 300px; height: 250px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabi0casa&layout=donut&theme=transparent&hide_border=true&title_color=00CD0BFF&text_color=71C771&icon_color=71C771" alt="Top Langs" max-width: 300px; height: 250px"/>
 </div>
 
 
