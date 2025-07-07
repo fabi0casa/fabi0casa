@@ -51,6 +51,30 @@
   <img src ="https://github.com/user-attachments/assets/5f12e0cb-838d-4381-bbbf-a3cfd596e021" style="height: 60px">
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eclipse-SVG.svg/1024px-Eclipse-SVG.svg.png" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/6fc34a90-c4aa-4b9f-acd9-123f35f92b6a" style="height: 60px">-->
+
+  <!-- versão mae legal:
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/html.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/css.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/js.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/bootstrap.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/python.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/java.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/c.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/cpp.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/php.png" style="height: 50px">
+  </br>
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/mint.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/mysql.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/oracle2.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/oracle.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/datam.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/postgre.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/mongo.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/git.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/spring.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/docker.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/pbi.png" style="height: 50px">
+  -->
 </div>
 
 <div align="center">
