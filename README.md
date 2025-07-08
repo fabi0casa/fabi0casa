@@ -27,6 +27,7 @@
   <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/c.png" style="height: 50px">
   <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/cpp.png" style="height: 50px">
   <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/php.png" style="height: 50px">
+  <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/node.png" style="height: 50px">
   </br>
   <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/mint.png" style="height: 50px">
   <img src ="https://github.com/fabi0casa/fabi0casa/blob/main/icons/mysql.png" style="height: 50px">
